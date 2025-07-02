@@ -1,4 +1,4 @@
-# ChapterCoach
+# BookSmart
 
 ChatGPT powered reading comprehension questions and feedback.
 
